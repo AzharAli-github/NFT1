@@ -1,0 +1,425 @@
+                                     /* Navbar Styling Starts Here */                                   
+nav img{
+    width: 5vw;
+    margin-left: 61px;
+}
+#nav-text{
+    width:100%;
+    margin-left: 25px;
+    justify-content: center;
+}
+#nav-text li{
+    margin-right: 30px;
+}
+#nav-text li a{
+    font-family: monospace;
+    font-size: 1.3vw;
+    color: black;
+    font-weight: 600;
+}
+#nav-text li a:hover{
+    font-family: monospace;
+    color:#0092cc;
+}
+#social-icon{
+    width: 60%;
+    justify-content: center;
+}
+#social-icon li a i{
+    font-size: 1.5vw;
+    color: black;
+    padding: 0px 15px;
+}
+#social-icon li a i:hover{
+    font-size: 1.5vw;
+    color:#0092cc;
+    padding: 0px 15px;
+}
+
+                                      /* Navbar Styling Ends Here */
+
+                                      /* Container Section Start */
+
+
+.container img{
+    width: 15vw;
+}                                      
+#landing .container .row .col-lg-6{
+    text-align: end;
+}
+#landing .container{
+    margin-top: 50px;
+}
+#landing .container .row .col-lg-6 img{
+    width: 32vw;
+    height: 20vw;
+    border-radius: 15px;
+    border: none;
+    margin-top: 50px;
+}
+#landing .container .row #clOne{
+    text-align: start;
+}
+#landing .container .row #clOne h1{
+    color:#3288ed;
+}
+#landing .container .row .col-lg-6 div button{
+    padding: 7px 17px;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    background-color: #3288ed;
+    margin-right: 15px;
+    text-decoration: none;
+}
+#landing .container .row .col-lg-6 div a{
+    text-decoration: none;
+}
+#landing .container .row .col-lg-6 div #watch{
+    padding: 7px 28px;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    background-color: #98b715;
+}
+#landing .container .row .col-lg-6 div a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+
+
+#more {display: none;}
+
+
+
+
+
+                                         /* About section */
+
+.about .container .row .col button{
+    background-color: #3288ed;
+    color: white;
+    padding: 9px 26px;
+    border-radius: 40px;
+    border: none;
+    font-weight: 700;
+    font-size: 1.2vw;
+}
+.about .container .row .col button:hover{
+    background-color: #98b715;
+    color: white;
+    padding: 9px 26px;
+    border-radius: 40px;
+    border: none;
+    font-weight: 700;
+    font-size: 1.2vw;
+}
+
+
+                                           /* OPENESEA PAGE STYLING STARTS HERE */
+                        
+.opensea {
+    padding-bottom:50px;
+    /* background:url(../images/bg.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat */
+    background:#eef6fd;
+}      
+.opensea .container #rowOne .col{
+    text-align:center; 
+    padding-top:40px
+}   
+.opensea .container #rowOne .col h1{
+    font-size: 5vw;
+}   
+.opensea .container #rowTwo{
+    justify-content:center;
+}      
+.opensea .container #rowThree .col{
+    text-align: center; 
+    margin-bottom:50px;
+    justify-content: space-between;
+} 
+.opensea .container #rowThree .col button{
+    background-color: #98b715;
+    padding: 7px 30px;
+    border-radius: 17px;
+    font-size: 1.5vw;
+    font-weight: 800;
+    margin-top: 40px;
+    text-transform: uppercase;
+}    
+.opensea .container #rowThree .col button:hover{
+    background-color: green;
+    padding: 7px 30px;
+    border-radius: 17px;
+    font-size: 1.5vw;
+    font-weight: 800;
+    margin-top: 40px;
+    text-transform: uppercase;
+}  
+.opensea .container #rowThree .col button a{
+    text-decoration:none;
+    color: black;
+}   
+.opensea .container #rowThree .col button a:hover{
+    text-decoration:none;
+    color: white;
+}          
+
+
+
+
+                                                /* INSTAGRAM STYLING STARTS HERE */
+.twitter{
+    padding-bottom:50px; 
+    /* background:url(../images/bg.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat; */
+    background:#eef6fd;
+}
+.twitter nav .container-fluid #navbarTogglerDemo03 ul li a{
+    color:black;
+}
+.twitter nav .container-fluid #navbarTogglerDemo03 ul li a:hover{
+    color: #ff8405;
+}
+.twitter nav .container-fluid #navbarTogglerDemo03 ul li a i{
+    color:black;
+}
+.twitter nav .container-fluid #navbarTogglerDemo03 ul li a i:hover{
+    color: red;
+}
+.twitter .container #rowOne .col{
+    text-align:center;
+     padding-top:40px;
+}
+.twitter .container #rowOne .col h1{
+    font-size: 5vw;
+}
+.twitter .container #rowTwo{
+    justify-content:center;
+}
+.twitter .container #rowThree{
+    margin-top: 50px;
+}
+.twitter .container #rowThree .col{
+    text-align: center;
+}
+.twitter .container #rowThree .col button{
+    background-color: #98b715;
+    padding: 7px 30px;
+    border-radius: 17px;
+    font-size: 1.5vw;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.twitter .container #rowThree .col button:hover{
+    background-color: green;
+    padding: 7px 30px;
+    border-radius: 17px;
+    font-size: 1.5vw;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.twitter .container #rowThree .col button a{
+    text-decoration:none;
+    color: black;
+}
+.twitter .container #rowThree .col button a:hover{
+    text-decoration:none;
+    color: white;
+}
+
+
+                                           /* INSTAGRAM SECTION STARTS HERE */
+.instagram{
+    /* background:url(../images/bg.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat; */
+    background:#eef6fd;
+    padding-bottom: 70px;
+}
+.instagram #rowOne .col{
+    text-align: center; 
+    margin-bottom:50px;
+}
+.instagram #rowTwo{
+    text-align: center;
+}
+.instagram #rowTwo button{
+    background-color: #98b715;
+    padding: 7px 30px;
+    border-radius: 17px;
+    font-size: 1.5vw;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.instagram #rowTwo button:hover{
+    background-color: green;
+    padding: 7px 30px;
+    border-radius: 17px;
+    font-size: 1.5vw;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.instagram #rowTwo button a{
+    text-decoration:none;
+    color: black;
+}
+.instagram #rowTwo button a:hover{
+    text-decoration:none;
+    color: white;
+}
+.instagram nav .container-fluid #navbarTogglerDemo03 ul li a{
+    color:black;
+}
+.instagram nav .container-fluid #navbarTogglerDemo03 ul li a:hover{
+    color: #ff8405;
+}
+.instagram nav .container-fluid #navbarTogglerDemo03 ul li a i{
+    color:black;
+}
+.instagram nav .container-fluid #navbarTogglerDemo03 ul li a i:hover{
+    color: red;
+}
+
+
+
+
+
+
+                           /* MEDIA QUERIES STARTS FROM HERE FOR SMALL DIVECES */
+
+
+                           /* DISPLAY EXTRA LARGE
+                            */
+                           
+                         
+
+                           /* DISPLAY LG 992px */
+@media(max-width:992px){
+    #landing .container .row .col-lg-6 img{
+        width: 33vw;
+        height: 32vw;
+        border-radius: 15px;
+        border: none;
+        margin-top: 41px;
+    }
+}
+
+                           /* DISPLAY MD 768px */
+
+@media(max-width:768px){
+    #landing .container .row .col-lg-6{
+        text-align: center;
+    }
+    #landing .container .row .col-lg-6 img{
+        width: inherit;
+    height: 263px;
+    }
+    #landing .container .row .col-lg-6 div{
+        text-align: center;
+    }
+    #container-rowThree{
+        display: none;
+    }
+    #container-rowOne .col-md-3{
+        text-align: center;
+    }
+    #nav-text li a{
+        font-family: monospace;
+        font-size: 30px;
+        color: black;
+        font-weight: 600;
+    }
+    #nav-text li a:hover{
+        font-family: monospace;
+        color:#0092cc;
+    }
+    #social-icon{
+        width: 60%;
+        justify-content: center;
+        display: -webkit-inline-box;
+    }
+    #social-icon li{
+        margin-top: 20px;
+    }
+    #social-icon li a i{
+        font-size: 35px;
+        color: black;
+        padding: 0px 15px;
+    }
+    #social-icon li a i:hover{
+        font-size: 35px;
+        color:#0092cc;
+        padding: 0px 15px;
+    }
+    nav img{
+        width: 70px;
+    }
+    .about .container .row .col button{
+        background-color: #3288ed;
+        color: white;
+        padding: 9px 26px;
+        border-radius: 40px;
+        border: none;
+        font-weight: 700;
+        font-size: inherit;
+    }
+    .about .container .row .col button:hover{
+        background-color: #98b715;
+        color: white;
+        padding: 9px 26px;
+        border-radius: 40px;
+        border: none;
+        font-weight: 700;
+        font-size: inherit;
+    }
+}
+
+    /* #landing .container .row .col-sm-6{
+        width: 100%;
+    } */
+/* } */
+                           /* DISPLAY SM 576px */
+@media(max-width: 576px){
+    #container-rowThree{
+        display: none;
+    }
+    #container-rowOne .col-md-3{
+        text-align: center;
+    }
+    .about .container .row .col-sm-3{
+        display: none
+    }
+    .about .container #rowThree{
+        display: none
+    }
+    .opensea .container #rowTwo #colTwo,#colThree,#colFour,#colFive{
+        display: none;
+    }
+    .opensea .container #rowTwo #colOne{
+        text-align: center;
+    }
+    .twitter .container #rowTwo #colTwo,#colThree,#colFour,#colFive{
+        display: none;
+    }
+    .twitter .container #rowTwo #colOne{
+        text-align: center;
+    }
+}
+
+                                 /* DISPLAY XSM MIN 576PX */
+@media(max-width:576px){
+    #container-rowOne .col-md-3{
+        display: none;
+    }
+}
